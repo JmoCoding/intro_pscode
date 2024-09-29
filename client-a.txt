@@ -7,10 +7,3 @@ random number TO RANDOM(1, 10)
 attempts TO 3
 if guessed correctly player wins
 if incorrect loop until 3 attempts are reached or player guesses correctly
-
-       
-
-   
-
-  
-
